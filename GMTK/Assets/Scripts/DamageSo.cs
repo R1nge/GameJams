@@ -6,5 +6,5 @@ public class DamageSo : ScriptableObject
     public int originalDamageAmount;
     public int damageAmount;
 
-    private void OnEnable() => damageAmount = originalDamageAmount;
+    public void ResetDamage() => damageAmount = originalDamageAmount;
 }

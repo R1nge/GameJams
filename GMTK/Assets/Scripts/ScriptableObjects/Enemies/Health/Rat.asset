@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a34de5fd7e504e73ab7c15da48a43c7f, type: 3}
   m_Name: Rat
   m_EditorClassIdentifier: 
-  originalHealth: 16
-  health: 16
-  maxHealth: 16
+  originalHealth: 12
+  health: 12
+  maxHealth: 12

@@ -6,8 +6,6 @@ public class HealthSo : ScriptableObject
     public int originalHealth;
     public int health, maxHealth;
 
-    private void OnEnable() => ResetHealth();
-
     public void ResetHealth()
     {
         maxHealth = originalHealth;

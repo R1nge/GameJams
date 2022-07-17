@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a8f47b73fde4d8abedfe49045c898e9, type: 3}
   m_Name: PeasantDamage
   m_EditorClassIdentifier: 
-  originalDamageAmount: 1
-  damageAmount: 1
+  originalDamageAmount: 2
+  damageAmount: 2

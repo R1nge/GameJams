@@ -5,7 +5,7 @@ public class Spawner : MonoBehaviour
 {
     [SerializeField] private GameObject[] enemies;
     [SerializeField] private int currentStage;
-    private readonly Random _random = new Random();
+    //private readonly Random _random = new Random();
 
     private void Start()
     {

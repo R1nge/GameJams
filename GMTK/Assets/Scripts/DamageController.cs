@@ -13,6 +13,7 @@ public class DamageController : MonoBehaviour
     {
         DiceManager.ONDICEROLL += DoDamage;
         _target = FindObjectOfType<EnemyManager>();
+        damage.ResetDamage();
     }
 
     private void DoDamage()

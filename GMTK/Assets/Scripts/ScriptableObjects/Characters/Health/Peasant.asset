@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a34de5fd7e504e73ab7c15da48a43c7f, type: 3}
   m_Name: Peasant
   m_EditorClassIdentifier: 
-  originalHealth: 3
-  health: 3
-  maxHealth: 3
+  originalHealth: 10
+  health: 10
+  maxHealth: 10
